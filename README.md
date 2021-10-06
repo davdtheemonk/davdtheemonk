@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @davdtheemonk
 - 👀 I’m interested in AI and Machine Learning...
+- ✨ I'm currently learrning Tensorflow 
 
 
 <!---
