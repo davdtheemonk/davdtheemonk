@@ -1,4 +1,6 @@
-Hi...am David.
+Hi there...
+
+My name is David and I'm a computer science student from Kenya
 
 I write code and I think that's beautiful.🐾
 
