@@ -2,7 +2,7 @@ Hi there...
 
 My name is David and I'm a computer science student from Kenya
 
-I write code and I think that's beautiful.🐾
+I write a bunch of lines on some editor and i think thats a super power🐾
 
 
 
