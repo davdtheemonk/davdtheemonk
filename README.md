@@ -2,10 +2,10 @@ Hi there...
 
 My name is David and I'm a computer science student from Kenya
 
-I write a bunch of lines on some editor and i think thats a super power🐾
+🏃I write a bunch of lines on some editor and I guess thats a super power.
 
 I built my blog from scratch (Front-end and Back-end)!!Read it or else!!!
-<a href="https://what-the-bug.tk/">Here</a>
+<a href="https://what-the-bug.tk/">Here🚀</a>
 
 
 
