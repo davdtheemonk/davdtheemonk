@@ -1,10 +1,19 @@
 Hi there...
 
 My name is David and I'm a computer science student from Kenya
+## About Me
+>  dev📝
+Mildly Active 🏃‍♂️
 
-🏃I write a bunch of lines on some editor and I guess thats a super power.
 
-I built my blog from scratch (Front-end and Back-end)!!Read it or else!!!
+## Career & Other Fun Stuff
+
+ I like building stuff 💼👨‍💻
+ 
+
+
+
+I built my blog from scratch (Front-end and Back-end)!!Read it🧘!!!
 <a href="https://what-the-bug.tk/">Here🚀</a>
 
 
