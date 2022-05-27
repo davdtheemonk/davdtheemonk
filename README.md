@@ -2,7 +2,7 @@
 >  dev 📝
 Mildly Active 🏃‍♂️
 
-<a href="www.what-the-bug.tk">I write here</a>
+<a href="https://www.what-the-bug.tk" target="_blank">I write here</a>
 
 -🐼 "So its nice,after talking to alot of people about building  an operating system,to be able to say ,"See, I actually got something done.I wasn't stringing you along. Here's what I've been doing..." ~Linus Torvald
 
