@@ -1,5 +1,5 @@
 ## About Me
->  dev 📝
+> fullstack dev 📝
 Mildly Active 🏃‍♂️
 
 <a href="https://www.what-the-bug.ml" target="_blank">I write here...see what am building next</a>
