@@ -1,5 +1,5 @@
 ## About Me
-> fullstack dev 📝
+> Hello!! am a fullstack dev 📝 from Kenya
 
 > mildly Active 🏃‍♂️
 
